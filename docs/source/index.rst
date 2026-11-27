@@ -14,7 +14,7 @@ documentation for details.
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-   getting started
+   getting-started
 
 Indices and Tables
 ==================
