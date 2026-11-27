@@ -8,3 +8,7 @@ tools:
 
 sphinx:
   configuration: docs/source/conf.py
+
+python:
+  install:
+    - requirements: docs/requirements.txt
